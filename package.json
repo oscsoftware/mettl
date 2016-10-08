@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/oscsoftware/mettl#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "chai": "^3.5.0",
+    "express": "^4.14.0",
+    "lodash": "^4.16.4",
+    "sinon": "^1.17.6"
   }
 }
