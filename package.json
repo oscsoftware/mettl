@@ -1,0 +1,22 @@
+{
+  "name": "mettl",
+  "version": "1.0.0",
+  "description": "Informed team planning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscsoftware/mettl.git"
+  },
+  "author": "Will Gibbins",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/oscsoftware/mettl/issues"
+  },
+  "homepage": "https://github.com/oscsoftware/mettl#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
